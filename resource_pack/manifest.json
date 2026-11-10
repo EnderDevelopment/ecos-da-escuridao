@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "The Hollow - Resource Pack",
+    "description": "Sound and visual assets for The Hollow horror add-on.",
+    "uuid": "4cc70211-3a22-4e3b-9d54-b5f1a234c001",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4cc70211-3a22-4e3b-9d54-b5f1a234c002",
+      "version": [1, 0, 0]
+    }
+  ]
+}

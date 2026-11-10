@@ -1,0 +1,34 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "The Hollow - Behavior Pack",
+    "description": "A relentless horror experience with stalking encounters and escalating dread.",
+    "uuid": "7d8af0ba-0b77-4928-8bc9-f60b1301e851",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "7d8af0ba-0b77-4928-8bc9-f60b1301e852",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "7d8af0ba-0b77-4928-8bc9-f60b1301e853",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    },
+    {
+      "uuid": "4cc70211-3a22-4e3b-9d54-b5f1a234c001",
+      "version": [1, 0, 0]
+    }
+  ]
+}
